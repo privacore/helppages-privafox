@@ -2,8 +2,8 @@
 
 Meanwhile take a look at other Privacy centric services from privacore  
 
-{{url>https://player.vimeo.com/external/163235550}}
+{{url>https://player.vimeo.com/external/163235550.sd.mp4}}
 
-{{url>https://player.vimeo.com/external/163235550 100%,height noscroll noborder alignment|alternate-text}}
+{{url>videolink.mp4; width,height property1 property2 alignment|alternate-text}}
 
 
