@@ -1,3 +1,3 @@
 #Control local cookies
 
-By using the cookecontroller you can easily control cookies saved on your computer. 
+By using the cookiecontroller you can easily control cookies saved on your computer. 
