@@ -1,7 +1,7 @@
 #Removing Privafox
 
 ##macOS
-Guide to completely removing Firefox from Mac OSx
+Guide to completely remove Privafox from Mac OSx
 Open up Finder and locate these files and delete them.
 
 `Applications/Firefox.app`  
