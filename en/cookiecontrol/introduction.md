@@ -2,5 +2,5 @@
 
 By using the cookiecontroller you can easily control cookies saved on your computer. 
 
-Blocking
+Blocking  
 Allowing
