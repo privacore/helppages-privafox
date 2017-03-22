@@ -1,5 +1,9 @@
 #Removing Privafox
 
+##Linux
+
+##Windows
+
 ##macOS
 Guide to completely remove Privafox from Mac OSx
 Open up Finder and locate these files and delete them.
