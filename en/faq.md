@@ -1,13 +1,13 @@
-#FAQ - Frequently asked Questions  
+# FAQ - Frequently asked Questions  
 
-How do I install Privafox on Linux
-How do I install Privafox on macOS
-How do I install Privafox on Windows
-Why can I not start a "New Private window"?
-What does the built in Cookiecontrol do?
-What does Privacontrol do?
-How can I make Privafox the default browser?
-How can I update to the latest version of Privafox?
+- How do I install Privafox on Linux
+- How do I install Privafox on macOS
+- How do I install Privafox on Windows
+- Why can I not start a "New Private window"?
+- What does the built in Cookiecontrol do?
+- What does Privacontrol do?
+- How can I make Privafox the default browser?
+- How can I update to the latest version of Privafox?
 
 
 
