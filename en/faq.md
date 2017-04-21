@@ -6,6 +6,7 @@
 - [Why can't I start a "New Private window"?](faq/noprivatewindow.md)
 - [What does the built in Cookiecontrol do?](faq/cookiecontrol.md)
 - [What does Privacontrol do?](faq/privacontrol.md)
+- [Why is there a master password?](faq/masterpassword.md)
 - How can I make Privafox the default browser?
 - How can I update to the latest version of Privafox?
 
