@@ -4,6 +4,7 @@
 - How do I install Privafox on macOS
 - How do I install Privafox on Windows
 - [How do you protect my privacy?](faq/protectprivacy.md)
+- [What happens with my browsing history?](faw/browsinghistory.md)
 - [Why can't I start a "New Private window"?](faq/noprivatewindow.md)
 - [What does the built in Cookiecontrol do?](faq/cookiecontrol.md)
 - [What does Privacontrol do?](faq/privacontrol.md)
