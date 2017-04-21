@@ -5,5 +5,5 @@ Because all browsing in Privafox is done in private. All windows and tabs are al
 
 
 
-Do you have problems with Privafox and can’t find a solution within the FAQs below? 
+Do you have problems with Privafox and can’t find a solution within the FAQs? 
 Please go https://forum.privacore.com/index.php?p=/categories/privafox and submit your question.
