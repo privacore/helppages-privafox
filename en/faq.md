@@ -4,6 +4,7 @@
 - How do I install Privafox on macOS
 - How do I install Privafox on Windows
 - [How do you protect my privacy?](faq/protectprivacy.md)
+- [Why is findx the default search engine?](faq/findxdefault.md)
 - [What happens with my browsing history?](faq/browsinghistory.md)
 - [Do you save form data?](faq/formdata.md)
 - [Why can't I start a "New Private window"?](faq/noprivatewindow.md)
