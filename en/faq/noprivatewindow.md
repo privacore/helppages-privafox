@@ -1,6 +1,6 @@
-# Why can I not start a "New Private window"?
+# Why can't I start a "New Private Window"?
 
-Because all browsing in Privafox is done in private
+Because all browsing in Privafox is done in private. That means all windows and tabs are private.
 
 
 
