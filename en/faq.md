@@ -1,8 +1,5 @@
 # FAQ - Frequently asked Questions  
 
-- How do I install Privafox on Linux
-- How do I install Privafox on macOS
-- How do I install Privafox on Windows
 - [How do you protect my privacy?](faq/protectprivacy)
 - [Why is findx the default search engine?](faq/findxdefault)
 - [What happens with my browsing history?](faq/browsinghistory)
@@ -11,11 +8,14 @@
 - [What does the built-in Cookiecontrol do?](faq/cookiecontrol)
 - [What does Privacontrol do?](faq/privacontrol)
 - [Why is there a master password?](https://help.privafox.com/en/faq/masterpassword)
+
+
+## More questions to be answered - stay tuned
+- How do I install Privafox on Linux
+- How do I install Privafox on macOS
+- How do I install Privafox on Windows
 - How can I make Privafox the default browser?
 - How can I update to the latest version of Privafox?
-
-
-
 
 
 
