@@ -1,13 +1,13 @@
 # FAQ - Frequently asked Questions  
 
-- [How do you protect my privacy?](faq/protectprivacy)
-- [Why is findx the default search engine?](faq/findxdefault)
-- [What happens with my browsing history?](faq/browsinghistory)
-- [Do you save form data?](faq/formdata.md)
-- [Why can't I start a "New Private window"?](faq/noprivatewindow)
-- [What does the built-in Cookiecontrol do?](faq/cookiecontrol)
-- [What does Privacontrol do?](faq/privacontrol)
-- [Why is there a master password?](https://help.privafox.com/en/faq/masterpassword)
+- [How do you protect my privacy?](en/faq/protectprivacy)
+- [Why is findx the default search engine?](en/faq/findxdefault)
+- [What happens with my browsing history?](en/faq/browsinghistory)
+- [Do you save form data?](en/faq/formdata)
+- [Why can't I start a "New Private window"?](en/faq/noprivatewindow)
+- [What does the built-in Cookiecontrol do?](en/faq/cookiecontrol)
+- [What does Privacontrol do?](en/faq/privacontrol)
+- [Why is there a master password?](en/faq/masterpassword)
 
 
 ## More questions to be answered - stay tuned
